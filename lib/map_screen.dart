@@ -22,7 +22,7 @@ class _MapScreenState extends State<MapScreen> {
   double? longitude;
 
   // Your Google API key (make sure this has access to Geocoding API)
-  final String _apiKey = 'AIzaSyC0ROz5h2IY0MAguAyAqnbQLY1lfdZ1PDk';
+  final String _apiKey = 'PUT API KEY HERE';
 
   // This method is called when the map is created
   void _onMapCreated(GoogleMapController controller) {
